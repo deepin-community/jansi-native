@@ -1,1 +1,8 @@
-.pc/
+.classpath
+.project
+.settings
+docs/out
+docs/webgen.cache
+target
+*.i??
+.idea
