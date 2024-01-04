@@ -2,12 +2,15 @@ Format: https://www.debian.org/doc/packaging-manuals/copyright-format/1.0/
 Source: https://github.com/fusesource/jansi-native/releases
 
 Files: *
-Copyright: 2009-2017, the original authors
+Copyright: 2009-2018, the original authors
 License: Apache-2.0
 
 Files: debian/*
-Copyright: 2010,      Miguel Landaeta <nomadium@debian.org>
-           2016-2017, Markus Koschany <apo@debian.org>
+Copyright: 2010-2023, Miguel Landaeta <nomadium@debian.org>
+           2011, Torsten Werner <twerner@debian.org>
+           2013-2023 tony mancill <tmancill@debian.org>
+           2016-2023, Markus Koschany <apo@debian.org>
+           2018-2023 Emmanuel Bourg <ebourg@apache.org>
 License: Apache-2.0
 
 License: Apache-2.0

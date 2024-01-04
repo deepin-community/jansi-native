@@ -1,3 +1,15 @@
+jansi-native (1.8-2) unstable; urgency=medium
+
+  * Add myself to Uploaders (there were no human maintainers)
+  * Freshen years in debian/copyright
+  * Update Homepage URL
+  * Use debhelper-compat 13
+  * Set Rules-Requires-Root: no in debian/control
+  * Bump Standards-Version to 4.6.2
+  * Update debian/watch to find Github releases
+
+ -- tony mancill <tmancill@debian.org>  Sun, 31 Dec 2023 14:36:45 -0800
+
 jansi-native (1.8-1) unstable; urgency=medium
 
   * Team upload.
